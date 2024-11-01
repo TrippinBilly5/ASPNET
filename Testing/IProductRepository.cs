@@ -7,5 +7,6 @@ namespace Testing
     {
         public IEnumerable<Product> GetAllProducts();
         Product GetProduct(int id);
+        void UpdateProduct(Product product);
     }
 }
