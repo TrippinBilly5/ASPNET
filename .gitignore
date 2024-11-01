@@ -403,3 +403,11 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+
+# added per class instructions
+*.suo 
+*.user 
+*.userosscache 
+*.sln.docstates 
+*appsettings.json
+*.userprefs
